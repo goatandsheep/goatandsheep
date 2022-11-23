@@ -3,7 +3,7 @@
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=goatandsheep&count_private=true&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goatandsheep&hide=TeX,Eagle&layout=compact&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goatandsheep&hide=TeX,Eagle,CSS,SCSS,Twig,Less,&layout=compact&theme=synthwave)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=goatandsheep.goatandsheep)
 
