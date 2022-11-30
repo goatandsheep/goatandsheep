@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 👯 I am the maintainer of libraries with over 19M downloads
 - 🔭 I’m currently searching for new work!
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I hold a UI patent
+- ⚡ Fun fact: I hold a Video / UI patent
