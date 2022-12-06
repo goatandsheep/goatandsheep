@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
+- 🔭 I’m currently searching for new work!
 -->
 
 - 👯 I am the maintainer of libraries with over 19M downloads
-- 🔭 I’m currently searching for new work!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I hold a Video / UI patent
+- 💬 [Ask me anything](https://github.com/goatandsheep/goatandsheep/discussions)
