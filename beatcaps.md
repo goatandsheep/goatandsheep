@@ -12,7 +12,7 @@
 * [Elevator Pitch](https://www.youtube.com/watch?v=RYoDmt7dbLc)
 * [Deck Video](https://www.youtube.com/watch?v=HnI-0QQ83-c)
 * [Slide Deck](https://docs.google.com/presentation/d/1vXL7tm5E-6_Z_RGkR-nATzPi_T-UWP7j3gzZtstciwk/edit?usp=sharing)
-* [Sample page](https://goatandsheep.github.io/beatcaps-sample/): [source](https://github.com/goatandsheep/beatcaps-sample)
+* [Sample demo](https://goatandsheep.github.io/beatcaps-sample/): [source](https://github.com/goatandsheep/beatcaps-sample)
 * Beatcaps library: a library that analyzes music and video files for rhythms using Fourier and outputs the times of the rhythms in JSON
 * Beatcaps server: a Docker server that runs the beatcaps library in a secure way and works best with Amazon Web Services
 * [Node-webvtt](https://github.com/osk/node-webvtt/): a convertor from JSON to VTT captions format (major contributors)
