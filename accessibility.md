@@ -6,7 +6,8 @@
 * W3C Web Accessibility Certified
 * 3 years working on WCAG-compliant websites, including work through Deloitte
 * Built auto-captions editor while at Amazon for Peloton
-* Contracted by Canadian Society for the Deaf to build open source video solutions for video series with interpretters
+* Contracted by Canadian Society for the Deaf to build [open source Deaf art marketplace](https://github.com/goatandsheep/deafartspace) 
+* Contracted by Canadian Society for the Deaf to build [open source video solutions for video series with interpretters](https://github.com/goatandsheep/pip/wiki)
 * [overleia](https://github.com/goatandsheep/overleia): an open-source Javascript library for creating picture-in-picture videos for Deaf community to add multiple sets of interpretters to videos. Also built an associated [drag-and-drop dashboard](github.com/goatandsheep/beatcaps-react/) and server software (link coming soon).
 * Founder, CEO, and lead developer of [BeatCaps](https://www.beatcaps.io/)
 * Co-founder of [Hapticast](https://docs.google.com/presentation/d/1TeZfb4tftIsxQ-1Zd-7kaAQG1lgAyOUo6bCtmrGt-NY/edit): a platform to stream haptics for video game accessibility over Twitch
