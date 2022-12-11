@@ -1,6 +1,6 @@
 # BeatCaps portfolio
 
-> An accessibility-driven project to piggyback on the captions protocol for time specific events such as gaming rumble and musical rhythms. This method is patent-protected and called Beatcaps
+> An accessibility-driven project to piggyback on the captions protocol for time specific events such as gaming rumble and musical rhythms. This method is [patent-protected](https://patents.google.com/patent/US20200312280A1/en?assignee=Communote+Inc) and called Beatcaps
 
 ## Beatcaps
 
