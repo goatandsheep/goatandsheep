@@ -1,28 +1,34 @@
 # BeatCaps portfolio
 
-> An accessibility-driven project to piggyback on the captions protocol for time specific events such as gaming rumble and musical rhythms. This method is patent-protected.
+> An accessibility-driven project to piggyback on the captions protocol for time specific events such as gaming rumble and musical rhythms. This method is patent-protected and called Beatcaps
 
 ## Beatcaps
 
-> A software platform that generating rhythms from music and videos
+> A software platform that generating rhythms from music and videos. It is a project to allow video streaming platforms to easily add Beatcaps support
 
 ### Current projects
 
 * [Marketing site](https://www.beatcaps.io/)
+* [Elevator Pitch](https://www.youtube.com/watch?v=RYoDmt7dbLc)
+* [Deck Video](https://www.youtube.com/watch?v=HnI-0QQ83-c)
+* [Slide Deck](https://docs.google.com/presentation/d/1vXL7tm5E-6_Z_RGkR-nATzPi_T-UWP7j3gzZtstciwk/edit?usp=sharing)
 * [Sample page](https://goatandsheep.github.io/beatcaps-sample/): [source](https://github.com/goatandsheep/beatcaps-sample)
 * Beatcaps library: a library that analyzes music and video files for rhythms using Fourier and outputs the times of the rhythms in JSON
 * Beatcaps server: a Docker server that runs the beatcaps library in a secure way and works best with Amazon Web Services
 * [Node-webvtt](https://github.com/osk/node-webvtt/): a convertor from JSON to VTT captions format (major contributors)
 * [Dashboard](https://app.beatcaps.io/): [source](https://github.com/goatandsheep/beatcaps-react)
 * Dolby Digital Audio integration
+* [Node-srt](https://github.com/goatandsheep/node-srt/): a convertor from JSON to SRT captions format (WIP)
 
 ### Future Projects
 
-* [Node-srt](https://github.com/goatandsheep/node-srt/): a convertor from JSON to SRT captions format (WIP)
+* Advanced embedded video player with Beatcaps pre-built
+* Beatcaps file hosting
+* Hapticast to Beatcaps file ingestion, i.e. saving Beatcaps in a file from a live Hapticast
 
 ## Hapticast
 
-> A system for streaming timing events through captions protocol, especially for gaming
+> A system for allowing end users to stream Beatcaps, especially for gaming
 
 ### Current projects
 
@@ -35,7 +41,9 @@
 
 ### Future projects
 
-* Haptics player to use captions files
+* Haptics DJ player to stream haptics from multiple Beatcaps files such as for DJing
+* Plugin for digital music production software
+* Custom haptic device integration using Web Gamepad API
 
 ## Related Open Source Repos
 
