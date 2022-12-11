@@ -42,6 +42,7 @@
 * [Color Randomizer](https://github.com/goatandsheep/color-randomizer): an open source Javascript library to easily change the color of HTML elements on event. This could be an output effect of a rhythmic event
 * [Piez](https://github.com/goatandsheep/piez): an open source Javascript library to toggle the mobile browser haptic engine on event
 * [Closed Captions Listener](https://github.com/goatandsheep/closed-captions-listener): an open source Javascript library to listen for caption events on video players and triggers callback events
+* [Video shake](https://github.com/goatandsheep/video-shake): an open source Javascript library that creates a visual shaking effect on video players on receiving events
 
 ## Unrelated Projects in umbrella
 
