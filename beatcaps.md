@@ -45,6 +45,7 @@
 * Haptics DJ player to stream haptics from multiple Beatcaps files such as for DJing
 * Plugin for digital music production software
 * Custom haptic device integration using Web Gamepad API
+* Haptic intensity streaming
 
 ## Related Open Source Repos
 
