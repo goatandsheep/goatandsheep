@@ -25,6 +25,7 @@
 * Advanced embedded video player with Beatcaps pre-built
 * Beatcaps file hosting
 * Hapticast to Beatcaps file ingestion, i.e. saving Beatcaps in a file from a live Hapticast
+* Midi to Beatcaps convertor
 
 ## Hapticast
 
