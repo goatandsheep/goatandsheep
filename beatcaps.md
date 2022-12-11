@@ -9,10 +9,12 @@
 ### Current projects
 
 * [Marketing site](https://www.beatcaps.io/)
+* [Sample page](https://goatandsheep.github.io/beatcaps-sample/): [source](https://github.com/goatandsheep/beatcaps-sample)
 * Beatcaps library: a library that analyzes music and video files for rhythms using Fourier and outputs the times of the rhythms in JSON
 * Beatcaps server: a Docker server that runs the beatcaps library in a secure way and works best with Amazon Web Services
 * [Node-webvtt](https://github.com/osk/node-webvtt/): a convertor from JSON to VTT captions format (major contributors)
-* [Dashboard](https://app.beatcaps.io/): ([source](https://github.com/goatandsheep/beatcaps-react))
+* [Dashboard](https://app.beatcaps.io/): [source](https://github.com/goatandsheep/beatcaps-react)
+* Dolby Digital Audio integration
 
 ### Future Projects
 
