@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 -->
 
 - 👯 I am the maintainer of libraries with over 19M downloads
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I hold a Video / UI patent
 - 💬 [Ask me anything](https://github.com/goatandsheep/goatandsheep/discussions)
