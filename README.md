@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 -->
 
 - 👯 I am the maintainer of libraries with over 19M downloads
-- ⚡ Fun fact: I hold a Video / UI patent
+- ⚡ Interesting fact: I hold a Video / UI patent
 - 💬 [Ask me anything](https://github.com/goatandsheep/goatandsheep/discussions)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=goatandsheep&theme=chalk&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
